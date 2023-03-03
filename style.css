@@ -1,0 +1,13 @@
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .bgImg {
+      display: none;
+    }
+  }
+.main{
+    height: 90vh;
+}
+.bg{
+    background-color: rgb(39, 48, 213);
+}
